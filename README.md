@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Safar | A travel Companion**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NodeJs and Socket.io**
 
 - 💬 Ask me about **MERN stack, Java**
 
